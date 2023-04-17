@@ -1,0 +1,110 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+head{
+
+	
+}
+body {
+	
+	font-family:"noto serif display", serif;";
+  	
+
+}
+
+  h1 {
+  	font-family:'Noto Seif Display' serif ;
+  text-align: center;
+  color:#0B0B45;
+}
+
+  h2{ font-family: 'Noto Seif Display' serif ;
+  	color:#0B0B45;
+}
+
+h4{
+	font-weight: bold;
+}
+#vision{
+background-color: #F1F1F1;
+
+
+
+
+
+}
+
+#concentrations{
+	margin-left:200px;
+	margin-right:200px;
+	  	
+
+}
+
+
+#about{
+
+	background-color:#F1F1F1;
+}
+
+#firstimage {
+	background-image: url(smadlogo.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1500px;
+	background-color: white;
+	height:500px;
+}
+#footer{
+	background-color:#BEBEBE; height:100px;
+
+}
+#opportunities{
+background-color:#C5D9DF;
+}
+#howtoapply{
+background-color:#ECECEC;
+
+}
+
+#mainNav{
+	background-color:#C49A6C;
+	
+}
+.navbar-brand,.navbar-toggler-icon,.nav-item,.nav-link {color:#F2EAE4;}
+
+#collapseOne{
+	background-color:#F5FBFF;
+}
+
+#collapseTwo{
+	background-color:#F5FBFF
+}
+
+#collapseThree{
+	background-color:#F5FBFF
+}
+
+#collapseFour{
+	background-color:#F5FBFF
+}
+#video{
+	background-color:#a6b5d0;
+}
+
+#cardOne{
+	background-color:#EBECF0 ;
+}
+#cardThree{
+	background-color:#EBECF0;
+}
+#cardFive{
+background-color:#EBECF0 ;
+}
+#cardEight{
+	background-color:#EBECF0 ;
+}
+
+
+
+
+
